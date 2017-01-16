@@ -45,7 +45,7 @@ Below are project details:
 > [POP company website](http://www.wearepop.com)
 
 > Responsibilities:
-> - Customized **Hubspot** CMS article templates.
+> - Customized Hubspot CMS article templates.
 
 
 **AAA**
@@ -59,7 +59,7 @@ Below are project details:
 	
 > Responsibilities:
 > - Markup/CSS for all member management pages.
-> - Partnered with AAA dev team to integrate into .Net templates for use with **Kentico** CMS.
+> - Partnered with AAA dev team to integrate into .Net templates for use with Kentico CMS.
 
 
 **Trident Seafoods**
@@ -76,7 +76,7 @@ Below are project details:
 
 > Responsibilities: 
 > - Markup for landing page below hero / navigation.
-> - Partnered with Software Developer to integrate into .Net templates for use with **Kentico** CMS.
+> - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
 
 > - All subsequent, top-level landing page templates (e.g.: https://corporate.target.com/careers )
 >	- Company: About, Investors, Press
