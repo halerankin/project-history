@@ -1,6 +1,6 @@
 # project-history
 
-This is a list of projects I've worked on while at POP these past five years. Includes a summary of my project work, broken out by client, and briefly detailing my responsibilities. 
+This is a curated list of projects I've worked on while at POP these past five years. Includes a summary of my project work, broken out by client, and briefly detailing my responsibilities. 
 
 ---
 
@@ -14,7 +14,7 @@ Below are links to client sites:
 
 [**Trident Seafoods**](http://www.tridentseafoods.com)
 
-[**Target Corporate**](https://corporate.target.com)
+[**Target**](https://corporate.target.com)
 
 [**Nintendo**](http://www.nintendo.com)
 
@@ -37,6 +37,8 @@ Below are links to client sites:
 
 
 ---
+
+Below are project details:
 
 **POP**
 
@@ -91,36 +93,36 @@ Below are links to client sites:
 
 **Nintendo**
 
-**Nintendo.com website** [[link]](http://www.nintendo.com)
+> **Nintendo.com website** [[link]](http://www.nintendo.com)
 
-Responsibilities:
-- Console landing template - all markup / CSS
-http://www.nintendo.com/games/wiiu/
-http://www.nintendo.com/games/3ds
+> Responsibilities:
+> - Console landing template - all markup / CSS
+> 	* http://www.nintendo.com/games/wiiu/
+> 	* http://www.nintendo.com/games/3ds
 
-- Game Detail page template - all markup / CSS
-http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
-
-
-**Steeldiver Microsite** [[link]](http://steeldiver.nintendo.com)
-
-Responsibilities: 
-- Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
-- Selection of ambient background and submarine-related sound effects.
-- In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
+> - Game Detail page template - all markup / CSS
+> 	* http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
 
 
-**Nintendo 2014 Holiday Gift Guide** [[link]](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
+> **Steeldiver Microsite** [[link]](http://steeldiver.nintendo.com)
 
-Responsibilities:
-- All markup/CSS for background graphics and gradients.
-- Markup/CSS for all sub-sections.
+> Responsibilities: 
+> - Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
+> - Selection of ambient background and submarine-related sound effects.
+> - In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
 
 
-**New Super Mario Bros U** [[link]](http://newsupermariobrosu.nintendo.com)
+> **Nintendo 2014 Holiday Gift Guide (web archive)** [[link]](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
 
-Responsibilities:
-- Markup/CSS for all pages.
+> Responsibilities:
+> - All markup/CSS for background graphics and gradients.
+> - Markup/CSS for all sub-sections.
+
+
+> **New Super Mario Bros U** [[link]](http://newsupermariobrosu.nintendo.com)
+
+> Responsibilities:
+> - Markup/CSS for all pages.
 
 
 **Advance Vixeid Partners** 
