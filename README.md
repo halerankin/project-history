@@ -1,6 +1,6 @@
 # Project history
 
-This is a curated list of projects I've worked on while at POP these past five years. Includes a summary of my project work, broken out by client, and briefly detailing my responsibilities. 
+This is a curated list of projects I've worked on while at POP from 2011-2016. Includes a summary of my project work, broken out by client, and briefly detailing my responsibilities. 
 
 ---
 
