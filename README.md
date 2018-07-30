@@ -50,7 +50,7 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### POP
 
-[POP company website](http://www.wearepop.com)
+#### [POP company website](http://www.wearepop.com)
 
 - Customized Hubspot CMS article templates.
 
@@ -106,14 +106,14 @@ This is a curated list of projects I've worked on. This includes a summary of my
 	- http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
 
 
-#### [Steeldiver Microsite](http://steeldiver.nintendo.com)
+#### Steeldiver Microsite
 
 - Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
 - Selection of ambient background and submarine-related sound effects.
 - In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
 
 
-#### [Nintendo 2014 Holiday Gift Guide (web archive)](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
+#### Nintendo 2014 Holiday Gift Guide
 
 - All markup/CSS for background graphics and gradients.
 - Markup/CSS for all sub-sections.
