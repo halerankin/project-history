@@ -22,9 +22,9 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 [**Nintendo**](http://www.nintendo.com)
 
-[**Steeldiver Microsite**](http://steeldiver.nintendo.com)
+**Steeldiver Microsite**
 
-[**Nintendo 2014 Holiday Gift Guide** (web archive)](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
+**Nintendo 2014 Holiday Gift Guide**
 
 [**New Super Mario Bros U**](http://newsupermariobrosu.nintendo.com)
 
