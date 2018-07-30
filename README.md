@@ -40,7 +40,7 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### Microsoft
 
-[Microsoft Azure](https://azure.microsoft.com)
+#### [Microsoft Azure](https://azure.microsoft.com)
 
 - Added/updated view components.
 - Added/updated styles.
