@@ -69,14 +69,14 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### Trident Seafoods
 
-[Trident Seafoods website](http://www.tridentseafoods.com)
+#### [Trident Seafoods website](http://www.tridentseafoods.com)
 
 - Assisted with markup and CSS sitewide.
 
 
 ### Target
 
-#### Target Corporate [[link]](https://corporate.target.com)
+#### [Target Corporate](https://corporate.target.com)
 
 - Markup for landing page below hero / navigation.
 - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
@@ -96,7 +96,7 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### Nintendo
 
-#### Nintendo.com website [[link]](http://www.nintendo.com)
+#### [Nintendo.com](http://www.nintendo.com)
 
 - Console landing template - all markup / CSS
 	- http://www.nintendo.com/games/wiiu/
@@ -106,27 +106,27 @@ This is a curated list of projects I've worked on. This includes a summary of my
 	- http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
 
 
-#### Steeldiver Microsite [[link]](http://steeldiver.nintendo.com)
+#### [Steeldiver Microsite](http://steeldiver.nintendo.com)
 
 - Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
 - Selection of ambient background and submarine-related sound effects.
 - In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
 
 
-#### Nintendo 2014 Holiday Gift Guide (web archive) [[link]](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
+#### [Nintendo 2014 Holiday Gift Guide (web archive)](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
 
 - All markup/CSS for background graphics and gradients.
 - Markup/CSS for all sub-sections.
 
 
-#### New Super Mario Bros U [[link]](http://newsupermariobrosu.nintendo.com)
+#### [New Super Mario Bros U](http://newsupermariobrosu.nintendo.com)
 
 - Markup/CSS for all pages.
 
 
 ### Advance Vixeid Partners
 
-**AVP website** [[link]](http://www.avpgrowth.com)
+#### [AVP website](http://www.avpgrowth.com)
 
 - Customized Squarespace template.
 - All markup, CSS and JS.
@@ -134,13 +134,13 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### Paul Allen
 
-#### Vulcan [[link]](http://www.vulcan.com)
+#### [Vulcan](http://www.vulcan.com)
 
 - Markup/CSS for entire site, all page templates.
 - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
 
 
-#### The Paul G. Allen Family Foundation [[link]](http://www.pgafamilyfoundation.org)
+#### [The Paul G. Allen Family Foundation](http://www.pgafamilyfoundation.org)
 
 - Markup/CSS for entire site, all page templates.
 - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
@@ -148,7 +148,7 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 ### Washington STEM
 
-**WA STEM website** [[link]](http://www.washingtonstem.org)
+#### [WA STEM](http://www.washingtonstem.org)
 
 - Markup/CSS for entire site, all page templates.
 - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
