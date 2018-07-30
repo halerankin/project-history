@@ -1,10 +1,14 @@
 # Project history
 
-This is a curated list of projects I've worked on while at POP from 2011-2016. Includes a summary of my project work, broken out by client, and briefly detailing my responsibilities. 
+This is a curated list of projects I've worked on. This includes a summary of my project work, broken out by client, and briefly detailing my responsibilities:
 
----
 
-Below are links to client sites:
+## Microsoft **2017-2018**
+
+[**Azure**](https://azure.microsoft.com)
+
+
+## POP **2011-2016** 
 
 [**POP**](http://www.wearepop.com)
 
@@ -32,131 +36,122 @@ Below are links to client sites:
 
 [**Washington STEM**](http://wastem.org)
 
+---
 
+### Microsoft
 
+[Microsoft Azure](https://azure.microsoft.com)
 
+- Added/updated view components.
+- Added/updated styles.
+- Updated view components to meet WCAG 2.0 AA accessibility standards.
 
 ---
 
-Below are project details:
+### POP
 
-**POP**
+[POP company website](http://www.wearepop.com)
 
-> [POP company website](http://www.wearepop.com)
-
-> Responsibilities:
-> - Customized Hubspot CMS article templates.
+- Customized Hubspot CMS article templates.
 
 
-**AAA**
+### AAA
 
-> [AAAWA - Marketing pages](https://wa.aaa.com)
+#### [AAAWA - Marketing pages](https://wa.aaa.com)
 
-> Responsibilities:
-> - Assisted with markup and CSS for all marketing pages.
+- Assisted with markup and CSS for all marketing pages.
 
-> [AAAWA - Member Management pages](https://secure.wa.aaa.com/membermanagement/join/detail/classic)
+#### [AAAWA - Member Management pages](https://secure.wa.aaa.com/membermanagement/join/detail/classic)
 	
-> Responsibilities:
-> - Markup/CSS for all member management pages.
-> - Partnered with AAA dev team to integrate into .Net templates for use with Kentico CMS.
+- Markup/CSS for all member management pages.
+- Partnered with AAA dev team to integrate into .Net templates for use with Kentico CMS.
 
 
-**Trident Seafoods**
+### Trident Seafoods
 
-> [Trident Seafoods website](http://www.tridentseafoods.com)
+[Trident Seafoods website](http://www.tridentseafoods.com)
 
-> Responsibilities:
-> - Assisted with markup and CSS sitewide.
-
-
-**Target**
-
-> **Target Corporate** [[link]](https://corporate.target.com)
-
-> Responsibilities: 
-> - Markup for landing page below hero / navigation.
-> - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
-
-> - All subsequent, top-level landing page templates (e.g.: https://corporate.target.com/careers )
->	- Company: About, Investors, Press
->	- Careers
->	- Corporate Responsibility
->	- News & Features
-
-> - Goals & Reporting, entire page including "2015 goals & progress" four-tab content.
->	https://corporate.target.com/corporate-responsibility/goals-reporting
-
-> - 2014 Annual Report - Overall page and module markup and styles; all but the 10-K report.
->	https://corporate.target.com/annual-reports/2014
+- Assisted with markup and CSS sitewide.
 
 
-**Nintendo**
+### Target
 
-> **Nintendo.com website** [[link]](http://www.nintendo.com)
+#### Target Corporate [[link]](https://corporate.target.com)
 
-> Responsibilities:
-> - Console landing template - all markup / CSS
-> 	* http://www.nintendo.com/games/wiiu/
-> 	* http://www.nintendo.com/games/3ds
+- Markup for landing page below hero / navigation.
+- Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
 
-> - Game Detail page template - all markup / CSS
-> 	* http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
+- All subsequent, top-level landing page templates (e.g.: https://corporate.target.com/careers )
+	- Company: About, Investors, Press
+	- Careers
+	- Corporate Responsibility
+	- News & Features
 
+- Goals & Reporting, entire page including "2015 goals & progress" four-tab content.
+	https://corporate.target.com/corporate-responsibility/goals-reporting
 
-> **Steeldiver Microsite** [[link]](http://steeldiver.nintendo.com)
-
-> Responsibilities: 
-> - Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
-> - Selection of ambient background and submarine-related sound effects.
-> - In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
-
-
-> **Nintendo 2014 Holiday Gift Guide (web archive)** [[link]](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
-
-> Responsibilities:
-> - All markup/CSS for background graphics and gradients.
-> - Markup/CSS for all sub-sections.
+- 2014 Annual Report - Overall page and module markup and styles; all but the 10-K report.
+	https://corporate.target.com/annual-reports/2014
 
 
-> **New Super Mario Bros U** [[link]](http://newsupermariobrosu.nintendo.com)
+### Nintendo
 
-> Responsibilities:
-> - Markup/CSS for all pages.
+#### Nintendo.com website [[link]](http://www.nintendo.com)
 
+- Console landing template - all markup / CSS
+	- http://www.nintendo.com/games/wiiu/
+	- http://www.nintendo.com/games/3ds
 
-**Advance Vixeid Partners** 
-
-> **AVP website** [[link]](http://www.avpgrowth.com)
-
-> Responsibilities:
-> - Customized Squarespace template.
-> - All markup, CSS and JS.
+- Game Detail page template - all markup / CSS
+	- http://www.nintendo.com/games/detail/dragon-quest-viii-journey-of-the-cursed-king-3ds
 
 
-**Paul Allen**
+#### Steeldiver Microsite [[link]](http://steeldiver.nintendo.com)
 
-> **Vulcan** [[link]](http://www.vulcan.com)
-
-> Responsibilities:
-> - Markup/CSS for entire site, all page templates.
-> - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
+- Markup and CSS for most of the site, including the background linear gradient from water surface to ocean floor.
+- Selection of ambient background and submarine-related sound effects.
+- In the content blade: "Choose from 18 Unique Subs", I was responsible for the instrument panel switch functionality using JS.
 
 
-> **The Paul G. Allen Family Foundation** [[link]](http://www.pgafamilyfoundation.org)
+#### Nintendo 2014 Holiday Gift Guide (web archive) [[link]](http://web.archive.org/web/20141228124212/http://happyholidays.nintendo.com/)
 
-> Responsibilities:
-> - Markup/CSS for entire site, all page templates.
-> - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
+- All markup/CSS for background graphics and gradients.
+- Markup/CSS for all sub-sections.
 
 
-**Washington STEM** 
+#### New Super Mario Bros U [[link]](http://newsupermariobrosu.nintendo.com)
 
-> **WA STEM website** [[link]](http://www.washingtonstem.org)
+- Markup/CSS for all pages.
 
-> Responsibilities:
-> - Markup/CSS for entire site, all page templates.
-> - Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
+
+### Advance Vixeid Partners
+
+**AVP website** [[link]](http://www.avpgrowth.com)
+
+- Customized Squarespace template.
+- All markup, CSS and JS.
+
+
+### Paul Allen
+
+#### Vulcan [[link]](http://www.vulcan.com)
+
+- Markup/CSS for entire site, all page templates.
+- Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
+
+
+#### The Paul G. Allen Family Foundation [[link]](http://www.pgafamilyfoundation.org)
+
+- Markup/CSS for entire site, all page templates.
+- Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
+
+
+### Washington STEM
+
+**WA STEM website** [[link]](http://www.washingtonstem.org)
+
+- Markup/CSS for entire site, all page templates.
+- Partnered with Software Developer to integrate into .Net templates for use with Kentico CMS.
 
 
 
