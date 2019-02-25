@@ -2,6 +2,9 @@
 
 This is a curated list of projects I've worked on. This includes a summary of my project work, broken out by client, and briefly detailing my responsibilities:
 
+## Amazon **2018-2019**
+[**Amazon Second Chance**](https://www.amazon.com/amsc)
+
 
 ## Microsoft **2017-2018**
 
@@ -35,6 +38,18 @@ This is a curated list of projects I've worked on. This includes a summary of my
 [**Vulcan**](http://www.vulcan.com)
 
 [**Washington STEM**](http://wastem.org)
+
+---
+
+### Amazon
+
+#### [Amazon Second Chance](https://www.amazon.com/amsc)
+
+- Built JSON data structure
+- Built JSP templates
+- Data-driven UI
+- Fully internationalized with localization files for each marketplace. This includes all offscreen text including carousel previous/next button labels.
+- WCAG 2.0 AA compliant
 
 ---
 
