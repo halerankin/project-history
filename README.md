@@ -1,6 +1,6 @@
 # Project history
 
-This is a curated list of projects I've worked on. This includes a summary of my project work, broken out by client, and briefly detailing my responsibilities:
+This is a curated list of projects I've worked on. Beneath this initial list of sites I have included a summary of my project work, broken out by client, and briefly detailing my responsibilities:
 
 ## Amazon **2018-2019**
 [**Amazon Second Chance**](https://www.amazon.com/amsc)
