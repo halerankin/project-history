@@ -37,7 +37,7 @@ This is a curated list of projects I've worked on. This includes a summary of my
 
 [**Vulcan**](http://www.vulcan.com)
 
-[**Washington STEM**](http://wastem.org)
+[**Washington STEM**](http://www.washingtonstem.org/)
 
 ---
 
